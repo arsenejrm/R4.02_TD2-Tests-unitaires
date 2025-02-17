@@ -1,0 +1,34 @@
+.scroll-pane {
+    -fx-background: #ddf5ee;
+    -fx-border-color: #5F9EA0;
+}
+
+#opaque {
+    -fx-background-color: white;
+}
+
+#first {
+    -fx-background-color: white;
+}
+
+#last {
+    -fx-background-color: white;
+}
+
+#dateHorsMois {
+    -fx-background-color: lightgray;
+}
+
+#today {
+    -fx-text-fill: coral;
+}
+
+.toggle-button{
+    -fx-color: white;
+    -fx-border-color: white;
+    -fx-backgroud-color: white;
+}
+
+.toggle-button:selected {
+    -fx-background-color: skyblue;
+}
